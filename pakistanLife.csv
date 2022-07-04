@@ -1,0 +1,17 @@
+Country,Year,Status,Life expectancy ,Adult Mortality,infant deaths,Alcohol,percentage expenditure,Hepatitis B
+Pakistan,2015,Developing,66.4,161,352,,0,72
+Pakistan,2014,Developing,66.2,162,359,0.01,62.29361092,72
+Pakistan,2013,Developing,66,163,365,0.04,60.18648815,72
+Pakistan,2012,Developing,65.7,165,369,0.04,59.65900139,72
+Pakistan,2011,Developing,65.5,167,371,0.04,57.87736282,74
+Pakistan,2010,Developing,65.1,172,372,0.04,0.66751505,82
+Pakistan,2009,Developing,64.8,175,371,0.03,0.697215581,78
+Pakistan,2008,Developing,64.6,177,369,0.03,5.447133608,65
+Pakistan,2007,Developing,64.4,178,367,0.03,3.912744517,75
+Pakistan,2006,Developing,64.2,179,365,0.03,40.36829999,78
+Pakistan,2005,Developing,62.9,2,364,0.04,30.59320769,7
+Pakistan,2004,Developing,63.7,183,364,0.01,28.98323119,65
+Pakistan,2003,Developing,63.5,185,366,0.01,24.23455671,63
+Pakistan,2002,Developing,63.2,187,371,0.01,22.39387584,
+Pakistan,2001,Developing,63,189,377,0.01,1.766663097,
+Pakistan,2000,Developing,62.8,19,385,0.02,18.84534312,
